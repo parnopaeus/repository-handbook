@@ -72,6 +72,6 @@ It is also important to consider how your repository will interact with other se
 
 For example: how will your audience discover the material in your repository? Will they use CUL's discovery layer, Google, both, something else entirely? How will the content you've been entrusted with be preserved? Will the repository have a standard means of displaying content to your audience, or will you need specialized systems or exhibits for some collections? All of these questions will necessitate certain design and implementation decisions, and will often involve working with established groups within CUL.
 
-*Complete the Preservation section of this handbook. `(URL needed)`
-*Complete the Interoperability and Infrastructure section of this handbook. `(URL needed)`
-*Complete the Access section of this handbook. `(URL needed)`
+*Complete the Preservation section of this handbook. **URL needed**
+*Complete the Interoperability and Infrastructure section of this handbook. **URL needed**
+*Complete the Access section of this handbook. **URL needed**
