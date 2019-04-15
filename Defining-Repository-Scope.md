@@ -70,8 +70,7 @@ If there is overlap between collections and communities, it may save you on deve
 * Interoperability 
 It is also important to consider how your repository will interact with other services, both those maintained by Cornell and those beyond. Many of these issues will be covered in other sections of the handbook, but it is important to begin thinking about them now.
 
-For example: how will your audience discover the material in your repository? Will they use CUL's discovery layer, Google, both, something else entirely? How will the content you've been entrusted with be preserved? Will the repository have a standard means of displaying content to your audience, or will you need specialized systems or exhibits for some collections? All of these questions will necessitate certain design and implementation decisions, and will often involve working with established groups within CUL.
-
-*Complete the Preservation section of this handbook. **URL needed**
-*Complete the Interoperability and Infrastructure section of this handbook. **URL needed**
-*Complete the Access section of this handbook. **URL needed**
+For example: how will your audience discover the material in your repository? Will they use library's discovery layer, Google, both, something else entirely? How will the content you've been entrusted with be preserved? Will the repository have a standard means of displaying content to your audience, or will you need specialized systems or exhibits for some collections? All of these questions will necessitate certain design and implementation decisions, and will often involve working with established groups within the organization.
+* Complete the Preservation section of this handbook. URL needed
+* Complete the Interoperability and Infrastructure section of this handbook. URL needed
+* Complete the Access section of this handbook. URL needed
