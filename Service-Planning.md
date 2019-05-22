@@ -23,8 +23,8 @@ In either case, it is important to look at the existing repository landscape at 
 The steps of this needs assessment can be found below; we also recommend working through the Repository Scope section of this handbook as part of that analysis. Semi-structured stakeholder interviews may be a good way to collect some of this information.
 
 - [ ] Complete the Repository Scope section of this handbook.
--- [ ] Evaluate whether your audience and content can be served by an existing repository.
--- [ ] Work with stakeholders to identify functionalities that you would wish for in your ideal repository service.
+  - [ ] Evaluate whether your audience and content can be served by an existing repository.
+  - [ ] Work with stakeholders to identify functionalities that you would wish for in your ideal repository service.
 - [ ] Consult with your Preservation Strategist to ensure long-term preservation management.  (For more detail on this bullet point, see the section on Preservation.)
 - [ ] If you're providing repository services already, document what works well with your current repository service and what could work better.
 - [ ] Perform a needs assessment to determine whether or not your current collection model is serving the needs of your constituents.
