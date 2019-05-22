@@ -4,9 +4,9 @@
 The following section details advice for managing your documentation over time. Documentation is an ongoing practice of maintaining your policies and procedures.
 
 ### Contents
-[Care and feeding of your documentation](#care-and-feeding-of-your-documentation)
-[Policy Writing](#policy-writing)
-[What to document?](#what-to-document)
+* [Care and feeding of your documentation](#care-and-feeding-of-your-documentation)
+* [Policy Writing](#policy-writing)
+* [What to document?](#what-to-document)
 
 ## Care and feeding of your documentation
 Documentation requires upkeep to keep it current and useful. This maintenance requires consideration when setting up documentation in form and function.

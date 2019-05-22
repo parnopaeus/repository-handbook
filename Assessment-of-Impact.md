@@ -19,10 +19,10 @@ Repository managers can assess the impact of repositories in a number of ways de
 Developing an assessment plan should not wait until stakeholders ask you for this information. Fortunately, Library Assessment & Communication can help you think through your needs and appropriate approaches, and can be reached at `need e-mail address`.
 
 ### Content in this section:
-[Usage statistics](#usage-statistics)
-[Impact stories](#impact-stories)
-[User satisfaction](#user-satisfaction)
-[Usability](#usability)
+* [Usage statistics](#usage-statistics)
+* [Impact stories](#impact-stories)
+* [User satisfaction](#user-satisfaction)
+* [Usability](#usability)
 
 ## Usage statistics
 `this section will need major updates`

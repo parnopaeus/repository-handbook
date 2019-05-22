@@ -5,11 +5,11 @@
 Content within a repository requires selection and management over time in order to support the identified communities. This work includes developing relationships with the appropriate content stewards and determining whether the content needs to be created from analog originals or if it exists in an appropriate digital format already.
 
 ### Contents in this section
-[Intellectual stewardship](#intellectual-stewardship)
-[Digitizing content](#digitizing-content)
-[Analog material and digital surrogates](#analog-material-and-digital-surrogates)
-[Metadata](#metadata)
-[Identifying content creators and rights holders](#identifying-content-creators-and-rights-holders)
+* [Intellectual stewardship](#intellectual-stewardship)
+* [Digitizing content](#digitizing-content)
+* [Analog material and digital surrogates](#analog-material-and-digital-surrogates)
+* [Metadata](#metadata)
+* [Identifying content creators and rights holders](#identifying-content-creators-and-rights-holders)
 
 ## Intellectual stewardship
 All content needs both an initial assessment and periodic review to assure its scholarly value to the institution, and its suitability to fulfill the CUL's scholarly mission.  Additionally, digital content requires frequent re-housing in new architectures, and re-evaluation for long term accessibility.  Mitigating threats to digital content often require balancing pros and cons of different technological strategy, gains vs loss.  Intellectual stewards inform that process through their expertise as representatives of the scholarly community and the intellectual value of the content itself, and can function as an able co-pilot when making important choices related to migration, discovery and display, and end-of-life assessment.  Decisions evaluating the content's value should not be left to the technical support team.

@@ -8,12 +8,12 @@ Access is comprised of two functions: Discovery and Delivery.
 * **Delivery:** Serving up metadata and digital object(s) as requested by the user. Delivery methods can be browser rendering, downloadable files, metadata returns.
 
 ### Contents
-[Discovery](#discovery)
-[Delivery](#delivery)
-[Mediating access](#mediating-access)
-[User experience](#user-experience)
-[Accessibility](#accessibility)
-[Usability studies](#usability-studies)
+* [Discovery](#discovery)
+* [Delivery](#delivery)
+* [Mediating access](#mediating-access)
+* [User experience](#user-experience)
+* [Accessibility](#accessibility)
+* [Usability studies](#usability-studies)
 
 ## Discovery
 
