@@ -21,16 +21,17 @@ Below you will find the grounding principles that underlie the handbook, and rep
 
 The handbook is divided into the following sections. Each section was written by a pair of primary authors, selected for their interest and expertise in the topic covered, with revisions and additional material provided by the subgroup as a whole.
 
-[Defining repository scope](Defining-Repository-Scope.md)
-[Service Planning](Service-Planning.md)
-[Access: Discovery and Delivery](Access-Discovery-and-Delivery.md)
-[Assessment of Impact](Assessment-of-Impact.md)
-[Curation](Curation.md)
-[Policy and Documentation](Policy-and-Documentation.md)
-[Infrastructure and Interoperability](Infrastructure-and-Interoperability.md)
-[Metadata Design and Best Practices](Metadata-Design-and-Best-Practices.md)
-[Outreach](Outreach.md)
-[Preservation](Preservation.md)
-[Rights Management](Rights-Management.md)
+* [Role identification](Role-Identification.md)
+* [Defining repository scope](Defining-Repository-Scope.md)
+* [Service Planning](Service-Planning.md)
+* [Access: Discovery and Delivery](Access-Discovery-and-Delivery.md)
+* [Assessment of Impact](Assessment-of-Impact.md)
+* [Curation](Curation.md)
+* [Policy and Documentation](Policy-and-Documentation.md)
+* [Infrastructure and Interoperability](Infrastructure-and-Interoperability.md)
+* [Metadata Design and Best Practices](Metadata-Design-and-Best-Practices.md)
+* [Outreach](Outreach.md)
+* [Preservation](Preservation.md)
+* [Rights Management](Rights-Management.md)
 
-You can also view a [README about this GitHub repository](README.md). 
+You can also view a [README about this GitHub repository](README.md).
