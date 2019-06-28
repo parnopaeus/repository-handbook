@@ -114,7 +114,7 @@ Repository systems often contain a combination of user-generated and librarian o
 
 All metadata eventually demands clean-up or enhancement; no metadata should be considered static. Normalizing, updating and enhancing metadata is common as we learn more about our resources, as repositories migrate between systems and as the evolution of data affords different models for description.
 
-Metadata Services routinely performs maintenance and clean-up on existing metadata across repositories; these efforts are performed using manual workflows (item-by-item editing) as well as batch processes using scripts and extract, transform and load (ETL) tooling. 
+Metadata Services routinely performs maintenance and clean-up on existing metadata across repositories; these efforts are performed using manual workflows (item-by-item editing) as well as batch processes using scripts and extract, transform and load (ETL) tooling.
 
 [Return to top](#top)
 
@@ -129,4 +129,7 @@ Metadata services can again help you define and begin to create proper metadata 
 - [ ] Who (which specific individual or group of individuals) is responsible for keeping the documentation up to date, and how will they be held accountable?
 - [ ] What are the triggers for review and update?
 - [ ] What parts of your documentation can or should be made publicly available?
+
+
 [Return to top](#top)
+[Return to home](index.md)

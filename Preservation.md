@@ -60,7 +60,7 @@ Preserving digital content requires a level of trust that users discovering the 
 
 If not, develop key policy and enforce by technical means if possible.
 
-- [ ] Develop a policy on accepted or recommended file formats that have greater likelihood of enduring into the future. 
+- [ ] Develop a policy on accepted or recommended file formats that have greater likelihood of enduring into the future.
       * Note that the collection style of your repository and the actual content you hope to collect may dictate the level risk that you deem "acceptable". In general, active collection of content may allow for more control over formats. In tension with this, some content may only be available in riskier formats.
       * Example: eCommons has a policy of recommended file formats that it makes available to depositors. Note that the chart is subdivided into basic content types, and gives a basic risk level for each format type. This chart is periodically reviewed for the inclusion of new formats.
 - [ ] Normalize deposited files to a standard format likely to be persistent.
@@ -107,8 +107,11 @@ All forms of documentation should exist outside your repository, and the availab
         * Schema and data arrangement
         * Defined roles and representatives , decision making processes, technical infrastructure, policies
 - [ ] Review all documentation periodically and keep it updated
-- [ ] Clearly record where documentation is kept, and record access credentials where needed for future repository managers. 
+- [ ] Clearly record where documentation is kept, and record access credentials where needed for future repository managers.
 - [ ] Review where documentation is kept over time with an eye toward resilience over time.
 - [ ] Turn all preservation decisions and strategies into a plain-language document for curators, content creators, and users to clearly establish expectations.
 - [ ] Refer to the Policy and documentation section of this handbook
+
 [Return to top](#top)
+
+[Return to home](index.md)

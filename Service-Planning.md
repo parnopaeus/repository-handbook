@@ -154,4 +154,7 @@ While leaving a non-licensed platform should remove the concern around contract 
 - [ ] Consult with sponsors, content creators, and other stakeholders regarding the change of infrastructure, any differences to the level of service that they may experience, as well as any interruption of service during migration.
 - [ ] Establish training time for any team members working with the new software.
 - [ ] Document the entire process; you will need to do this again.
+
 [Return to top](#top)
+
+[Return to home](index.md)

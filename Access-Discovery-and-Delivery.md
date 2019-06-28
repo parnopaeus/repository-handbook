@@ -167,3 +167,5 @@ In addition to the data collected in formal studies, you will be collecting data
 - [ ] Implement a plan for the processing of feedback into a sustainable design and development cycle.
 
 [Return to top](#top)
+
+[Return to home](index.md)

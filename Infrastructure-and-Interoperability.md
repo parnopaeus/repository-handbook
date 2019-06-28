@@ -140,3 +140,5 @@ A single repository architecture rarely provides for all the needs of a specific
 **Authentication/Authorization.** A repository often has the ability to authorize access based on user affiliation, or to grant/limit access by community affiliation. This can be accomplished by local accounts on the system, but it usually makes sense to integrate with other campus wide identity provisioning systems, especially if affiliations in that system can be re-purposed in the repository. Significant economies of scale in terms of administration support through this type of integration. ex: Shibboleth
 
 [Return to top](#top)
+
+[Return to home](index.md)

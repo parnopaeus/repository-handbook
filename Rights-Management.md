@@ -103,3 +103,5 @@ Nonetheless, it's also important to have a policy in place for how to respond to
     - [ ] Policy accounts for requests from content owners.
 
 [Return to top](#top)
+
+[Return to home](index.md)

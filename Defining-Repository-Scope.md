@@ -71,3 +71,5 @@ For example: how will your audience discover the material in your repository? Wi
 * Complete the Preservation section of this handbook. URL needed
 * Complete the Interoperability and Infrastructure section of this handbook. URL needed
 * Complete the Access section of this handbook. URL needed
+
+[Return to home](index.md)

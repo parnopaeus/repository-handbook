@@ -68,3 +68,5 @@ Digitizing content will often require an investigation of who holds copyright to
 - [ ] Identify rights holders for repository content.
 
 [Return to top](#top)  
+
+[Return to home](index.md)
