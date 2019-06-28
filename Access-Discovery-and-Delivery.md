@@ -4,7 +4,7 @@ Repository access is about providing end users with material that serves their n
 
 Access is comprised of two functions: Discovery and Delivery.
 
-* **Discovery:** Methods allowing user to find the information object that answers the question they were asking. Discovery services can use a combination of metadata and extracted content (e.g. OCR'd documents, audio transcripts) to answer the user's query.
+* **Discovery:** Methods allowing user to find the information object that answers the question they were asking. Discovery services can use a combination of metadata and extracted content (e.g. OCRed documents, audio transcripts) to answer the user's query.
 * **Delivery:** Serving up metadata and digital object(s) as requested by the user. Delivery methods can be browser rendering, downloadable files, metadata returns.
 
 ### Contents
@@ -141,12 +141,12 @@ In order to provide equitable access, accessibility should be a primary consider
 * Mobile technology
 * Internet speed
 
-You will need to identify the requirements of your organization and web content and the relevant teams or individuals to consult with to adhere to those requirements. 
+You will need to identify the requirements of your organization and web content and the relevant teams or individuals to consult with to adhere to those requirements.
 
 - [ ] Identify accessibility minimums for repository based on user communities.
-- [ ] Identify a user experience or web management team and consult with them for requirements and tools available. 
+- [ ] Identify a user experience or web management team and consult with them for requirements and tools available.
 - [ ] Be sure that your development team makes accessibility checks part of the development process and not an after thought. Many tools exist to help them with this task. Tools/checklists to consider: A11Y CLI Audit Tool, WCAG 2.0 QuickRef, the A11Y Project's checklist, WAVE Browser Extensions.
-- [ ] Identify whether your University has tools available for captioning A/V collections. 
+- [ ] Identify whether your University has tools available for captioning A/V collections.
 - [ ] Implement accessibility testing criteria.
 
 [Return to top](#top)
