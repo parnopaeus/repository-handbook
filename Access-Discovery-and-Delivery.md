@@ -1,4 +1,4 @@
-# Access: Discovery and Delivery
+﻿# Access: Discovery and Delivery
 ## Introduction
 Repository access is about providing end users with material that serves their needs. Users in access systems can be humans navigating a GUI environment, humans querying the repository using machines through backend tools (API queries), or machines scraping the repository (API calls, OAI-PMH). Repositories should consider to what extent they allow access of content to multiple types of users.
 
@@ -48,6 +48,7 @@ In addition to configuration related to extracted content, a number of other dis
 - [ ] Identify discovery methods for repository content.
 - [ ] Evaluate the configurability of your solution for accommodating new discovery requirements as they arise.
 - [ ] Test discovery mechanisms for accessibility compliance.
+
 [Return to top](#top)
 
 ## Delivery
@@ -63,7 +64,7 @@ Certain formats are more easily rendered in a browser than others. Certain forma
 
 - [ ] Identify formats being delivered.
 - [ ] Determine preferred delivery option for formats in repository.
-- [ ]
+
 ### Accessibility
 Repositories should deliver content in an accessible way. This may mean delivering transcripts alongside video that are time coded together or ensuring large objects that are delivered through download are clearly identified with recommended connection capabilities.
 
@@ -80,11 +81,12 @@ Digital content may have restrictions that impact delivery options. These may be
 
 * Time specific (e.g. embargo)
 * Location specific (e.g. only certain countries)
-* Person or role specific (e.g. creator only; Cornell community only)
+* Person or role specific (e.g. creator only; library community only)
 * Content use or reuse allowances (e.g. embed streaming audio or video on another website; downloading entire collection; downloading only low-resolution derivatives)
 
 - [ ] Identify content restrictions that may impact delivery options.
 - [ ] Document the types of restrictions on content that affect delivery.
+
 [Return to top](#top)
 
 ## Mediating access
@@ -110,6 +112,7 @@ Mediated access may also add an administrative burden to properly identify conte
 
 - [ ] Identify conditions requiring mediated access.
 - [ ] Evaluate potential personnel cost necessary to provide timely mediated access given demand of material.
+
 [Return to top](#top)
 
 ## User experience
@@ -119,11 +122,12 @@ Successful discovery and delivery requires that you undertake the best practices
 
 User experience practices to undertake include:
 
-- [ ] Define your user community and then collaborate with user experience, research, and usability groups within CUL to develop personas, use cases and other UX deliverables to communicate your understanding of users and their needs to repository designers, developers, and maintainers.
+- [ ] Define your user community and then collaborate with user experience, research, and usability groups within your organization to develop personas, use cases and other UX deliverables to communicate your understanding of users and their needs to repository designers, developers, and maintainers.
 - [ ] Conduct accessibility reviews of repository solutions and necessary remediation throughout the repository’s life in service.
 - [ ] Conduct usability testing and accessibility reviews to verify that repository design and development decisions meet your users' needs throughout the repository's life.
 - [ ] Review usage statistics regularly to answer questions about the ways your audience is using the repository.
 - [ ] Conform to best practices of interface design and maintenance. An appropriate, modern look and feel with clear institutional associations promotes user confidence and greater use of the repository. Repository solutions should always include the capacity to display appropriate branding.
+
 [Return to top](#top)
 
 ## Accessibility
@@ -137,20 +141,20 @@ In order to provide equitable access, accessibility should be a primary consider
 * Mobile technology
 * Internet speed
 
-Cornell University Library works toward meeting a minimum of WCAG 2.0 AA Standards. Any new web sites or repositories should meet this standard. The CUL User Experience team can advise you on accessibility best practices and connect you to other Cornell University resources. Facilities for testing access for disabled users are available on campus through student disability services. In addition, they offer regular trainings for web developers and others providing online resources to disabled students. Cornell IT now also offers a University-wide Site Improve license which provides automated accessibility testing.
-`we're going to need to update the above paragraph`
+You will need to identify the requirements of your organization and web content and the relevant teams or individuals to consult with to adhere to those requirements. 
 
 - [ ] Identify accessibility minimums for repository based on user communities.
-- [ ] Talk to CUL User Experience Team. `Web Services?`
+- [ ] Identify a user experience or web management team and consult with them for requirements and tools available. 
 - [ ] Be sure that your development team makes accessibility checks part of the development process and not an after thought. Many tools exist to help them with this task. Tools/checklists to consider: A11Y CLI Audit Tool, WCAG 2.0 QuickRef, the A11Y Project's checklist, WAVE Browser Extensions.
-- [ ] Use university supported captioning for A/V collections: https://it.cornell.edu/vod/captions-recommended-method `update this`
+- [ ] Identify whether your University has tools available for captioning A/V collections. 
 - [ ] Implement accessibility testing criteria.
+
 [Return to top](#top)
 
 ## Usability studies
 Usability studies help evaluate whether users are able to perform the tasks required to interact with content in your repository. These studies provide a process to examine ease of use, intuitiveness, learnability and overall satisfaction that users experience when interacting with the repository. Repository systems are more complex than many other library websites because users may be both creating and consuming content, as well as sharing content, updating content and mediating the access of others to the content. All of these types of interactions should undergo usability testing. You may also have staff spending many hours working on the repository, testing for efficiency in their UX may be important to you as well.
 
-`needs updates` CUL and Cornell have support in place for conducting user and usability studies. A good first step is to contact CUL's Usability Working Group and CUL's Research and Assessment department. These groups can help you define testing goals and implementations.
+A good first step is to identify and contact your University's equivalent of a Usability Working Group and Research and Assessment department. These groups can help you define testing goals and implementations.
 
 ### Initial development
 The studies you conduct will be determined in part by your current development phase. For instance, early usability studies should involve low fidelity prototypes that demonstrate the in-progress nature of the repository's development, granting users the freedom to offer wide ranging feedback without fearing they will derail or insult your project. Later studies could include ethnographic observation of users conducting real research using your repository and its resources. Studies are not limited to one type of test or the collection of only one type of data.
@@ -161,4 +165,5 @@ In addition to the data collected in formal studies, you will be collecting data
 - [ ] Conduct user studies and usability tests throughout the life of your repository using appropriate methodology.
 - [ ] Track and analyze passively collected data from your users.
 - [ ] Implement a plan for the processing of feedback into a sustainable design and development cycle.
+
 [Return to top](#top)
