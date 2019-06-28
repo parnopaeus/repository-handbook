@@ -2,8 +2,6 @@
 # Introduction
 The infrastructure (servers, software, and practices) that support a repository are the unseen foundation of the repository service; this foundation is the "building" in which the content is housed. When everything is going well, nobody is aware of the infrastructure, people visit the house and interact with the contents to get what they need. When something goes wrong, everyone is painfully aware of it, and interaction with the content can be hampered or lost. Repository managers are not expected to be technically accomplished, but do need to have a basic working knowledge of the architectural design of their repository, so that they can choose an architecture that best fits the needs of their uses, and assist with "home repairs" at times when they are needed. Partnering with IT, services providers and/or vendors is inevitable, especially as the service is affected by tool selection, architectural and cost constraints, and unanticipated events. The grasp of the repository manager of the basic challenges and constraints of architectures and technical solutions will directly impact success in communicating with the IT support provider who maintains the system.
 
-Repository managers are encouraged to leverage the resources of the Repository Executive Committee to facilitate the partnerships to work effectively through the checklists below.
-
 The repository manager is the appropriate representative of the service to the user community, whether that be in times of service stability (regarding features and usability), service change (regarding migrations and new features) or service events (like unexpected outages). The repository manager will need to be able to communicate these events effectively to the user community so that technical staff can maintain focus on the support of the technological system(s) in play.
 
 This document can help repository managers as they contemplate designing a new repository, or in response to significant changes in the repository they run. Events such as these may trigger review:
@@ -51,11 +49,11 @@ Explore the costs and offerings of the investment of resources, and characterize
      * system design
      * system implementation
      * ongoing support
-    *Outsourcing requires a point person for vendor contact, including escalating bugs that are discovered, service issues, and desires for new features. Determine who will serve in this role.
+    * Outsourcing requires a point person for vendor contact, including escalating bugs that are discovered, service issues, and desires for new features. Determine who will serve in this role.
 - [ ] Identify what portions of your infrastructure should be in-sourced
   * Does in-sourced infrastructure exist that meets the needs of your user community of focus?
   * Is staff effort available for the support of these components? How much? Consider system implementation and ongoing costs for support services.
-  * Coordination will be required across departments within Cornell. Determine who will perform this function.
+  * Coordination will be required across departments within your organization. Determine who will perform this function.
 - [ ] If your infrastructure utilizes in-sourced and out-sourced components, draw a diagram to express how the components fit together, the flow of data, and area of responsibility for support and funding. This can bring clarity to missing pieces of the overall infrastructure.
 
 **Level of service**
@@ -98,7 +96,7 @@ In this context, "Implementation" is intended to describe the choices associated
   - [ ] Ensure that the components fit within the landscape of the mainstream of supported systems
   - [ ] Ensure that staff possess the proper technical skills/get relevant training
   - [ ] Ensure that components work well together
-  
+
 [Return to top](#top)
 
 ## Technical constraints
@@ -137,7 +135,7 @@ A single repository architecture rarely provides for all the needs of a specific
   * Make index of resources available to other discovery layers.
   * Consider the use of a handles to allow for stable URLs for resources. (Can assist in exit strategies should that become necessary.)
 
-**Extract, Transform, Load (ETL).** These processes coordinate lifecycle management and complex workflows where repositories and metadata stores are linked serially or recursively. For instance, metadata may be created in one system, but must be populated to another as the system of record (ex: Voyager migration to Archivespace) Likewise metadata from one system might be used to augment a second system. (ex: Scholars and Symplectic Elements). ETL differs from migration in that it is periodic, and keeps live systems in synchrony. ETL processes can affect data and metadata alike; preservation systems often employ periodic, automated extracts of both data and metadata from live repository sites for preservation purposes.
+**Extract, Transform, Load (ETL).** These processes coordinate lifecycle management and complex workflows where repositories and metadata stores are linked serially or recursively. For instance, metadata may be created in one system, but must be populated to another as the system of record. (ex: Voyager migration to Archivespace) Likewise metadata from one system might be used to augment a second system (ex: Scholars and Symplectic Elements). ETL differs from migration in that it is periodic, and keeps live systems in synchrony. ETL processes can affect data and metadata alike; preservation systems often employ periodic, automated extracts of both data and metadata from live repository sites for preservation purposes.
 
 **Authentication/Authorization.** A repository often has the ability to authorize access based on user affiliation, or to grant/limit access by community affiliation. This can be accomplished by local accounts on the system, but it usually makes sense to integrate with other campus wide identity provisioning systems, especially if affiliations in that system can be re-purposed in the repository. Significant economies of scale in terms of administration support through this type of integration. ex: Shibboleth
 
