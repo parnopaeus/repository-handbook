@@ -12,7 +12,7 @@ Content within a repository requires selection and management over time in order
 * [Identifying content creators and rights holders](#identifying-content-creators-and-rights-holders)
 
 ## Intellectual stewardship
-All content needs both an initial assessment and periodic review to assure its scholarly value to the institution, and its suitability to fulfill the CUL's scholarly mission.  Additionally, digital content requires frequent re-housing in new architectures, and re-evaluation for long term accessibility.  Mitigating threats to digital content often require balancing pros and cons of different technological strategy, gains vs loss.  Intellectual stewards inform that process through their expertise as representatives of the scholarly community and the intellectual value of the content itself, and can function as an able co-pilot when making important choices related to migration, discovery and display, and end-of-life assessment.  Decisions evaluating the content's value should not be left to the technical support team.
+All content needs both an initial assessment and periodic review to assure its scholarly value to the institution, and its suitability to fulfill the library's scholarly mission.  Additionally, digital content requires frequent re-housing in new architectures, and re-evaluation for long term accessibility.  Mitigating threats to digital content often require balancing pros and cons of different technological strategy, gains vs loss.  Intellectual stewards inform that process through their expertise as representatives of the scholarly community and the intellectual value of the content itself, and can function as an able co-pilot when making important choices related to migration, discovery and display, and end-of-life assessment.  Decisions evaluating the content's value should not be left to the technical support team.
 
 - [ ] Reach out to selectors, curators, archivists and/or other specialists as appropriate for your content to connect their skills and knowledge to the content in your repository.
 - [ ] Create and assign role(s) of intellectual steward/curator for each collecting areas represented in the repository.  Assign these leveraging the expertise of selectors, and in a way that is resistant to institutional change (obtain buy-in that role conveys with position).  
@@ -28,13 +28,13 @@ All content needs both an initial assessment and periodic review to assure its s
 ## Digitizing content
 If the content already exists in digital format, then your main concern will be evaluating the quality of the digital objects against what is needed for the chosen system.
 
-If the content is not yet digital, then you will need a plan to digitize it. If your unit has in-house digitization capabilities, you will need to prepare a digitization plan. If your unit lacks such facilities, then you should reach out to DCAPS to discuss how best to digitize the content, and potentially get an estimate from them.
+If the content is not yet digital, then you will need a plan to digitize it. If your unit has in-house digitization capabilities, you will need to prepare a digitization plan. If your unit lacks such facilities, then you need to reach out to campus partners to identify opportunities for partnership.
 
 - [ ] Determine how much of your targeted content exists in a non-digital format.
 - [ ] Compare your digitization needs to the digitization capabilities of your library or unit.
 - [ ] Review current digitization best practices for your content.
-- [ ] Develop digitization workflows. Contact DCAPS for advice as needed.  
-- [ ] If the needs exceed in-house capabilities, contact DCAPS to discuss digitization options.
+- [ ] Develop digitization workflows.   
+- [ ] If the needs exceed in-house capabilities, contact other units to discuss digitization options.
 
 [Return to top](#top)  
 
@@ -56,13 +56,15 @@ Depending on the specific needs of the repository and/or your unit, you may not 
 
 - [ ] Identified the extant descriptive, administrative, structural, and/or technical metadata associated with the content for your repository.  
 - [ ] Completed the Metadata section of this manual.    
-- [ ] Set up an appointment with Metadata Services to discuss extant metadata, and the metadata needs of the repository.
+- [ ] Set up an appointment with a metadata librarian to discuss extant metadata, and the metadata needs of the repository.
+
 [Return to top](#top)
 
 ## Identifying content creators and rights holders
-Digitizing content will often require an investigation of who holds copyright to that content; adding such content to a repository **always** requires such an investigation. Making this determination is a key prerequisite to any repository process . If you don't know who owns the rights to the content, you should consult with Cornell Copyright Services to help make that determination. Once you have identified the rights holders, it is vital to obtain their permission before moving forward with the digitization and dissem in ation of the content; Cornell Copyright Services can work with you on this process, as well.
+Digitizing content will often require an investigation of who holds copyright to that content; adding such content to a repository **always** requires such an investigation. Making this determination is a key prerequisite to any repository process . If you don't know who owns the rights to the content, you should consult with a Copyright Office or other copyright expert at your library to help make that determination. Once you have identified the rights holders, it is vital to obtain their permission before moving forward with the digitization and dissem in ation of the content.
 
 - [ ] Complete the Rights Management section of this manual.
-- [ ] Contact Copyright Team for training on how to identify rights holders and obtain permissions.
+- [ ] Contact copyright experts for training on how to identify rights holders and obtain permissions.
 - [ ] Identify rights holders for repository content.
+
 [Return to top](#top)  
