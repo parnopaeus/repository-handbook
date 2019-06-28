@@ -32,4 +32,4 @@ The handbook is divided into the following sections. Each section was written by
 * [Preservation](Preservation.md)
 * [Rights Management](Rights-Management.md)
 
-You can also view a [README about this GitHub repository](README.md).
+You can also view a [the GitHub repository for this work](https://github.com/DSSatPitt/repository-handbook).
