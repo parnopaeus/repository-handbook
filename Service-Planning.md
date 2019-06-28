@@ -17,7 +17,7 @@ Whether you are starting a repository service from scratch or considering making
 
 If you are already providing repository services, having a clear sense of why you are providing them and how well they are meeting your current goals and expectations may provide insight and direction for resource planning and staffing, future development, and potentially also a sense of the skills and competencies that you need to hire for in the future.
 
-In either case, it is important to look at the existing repository landscape at Cornell, and determine whether an independent infrastructure will best fit the service needs of your community, or whether an existing system will be better suited.
+In either case, it is important to look at the existing repository landscape at your organization, and determine whether an independent infrastructure will best fit the service needs of your community, or whether an existing system will be better suited.
 
 The steps of this needs assessment can be found below; we also recommend working through the Repository Scope section of this handbook as part of that analysis. Semi-structured stakeholder interviews may be a good way to collect some of this information.
 
@@ -37,10 +37,10 @@ Whether you are setting up an entirely new repository, migrating extant content 
 
 Given the variances in repository platforms (open-source vs. proprietary), content types, and collection and staffing models, however, it is difficult to design a one-size-fits-all checklist. Instead, here are a few action items that you might consider as you generate a rough estimate of effort (in a 12 month time frame) and also a few actions to consider if you plan to scale up ingest. It is highly recommended that you also consult the section on Defining repository scope, which goes into much greater detail regarding the action items below.
 
-- [ ] For purposes of comparison/benchmarking, identify similar efforts that may have taken place within other (Library) units. Consult the Repository Inventory produced by the Repository Inventory Working Group.
+- [ ] For purposes of comparison/benchmarking, identify similar efforts that may have taken place within other (Library) units.
 - [ ] Identify ingest type (e.g. self-deposit, mediated deposit, batches, or individual file uploads). See Defining repository scope section, specifically the  "Active and passive content collection" portion.
 - [ ] Document the number, type, and size of files you or external partners uploaded to your repository in the past 12 months. Extrapolate growth projection of annual additional records and file size.
-- [ ] Calculate roughly how many hours per week were dedicated to this effort and by whom, including staff assistance from other units (e.g. eCommons Administrators team). Extrapolate growth projection of annual FTE.
+- [ ] Calculate roughly how many hours per week were dedicated to this effort and by whom, including staff assistance from other units. Extrapolate growth projection of annual FTE.
 - [ ] Consider whether you need to digitize the collection material. See Curation section for more details.
 
 Review new or desirable functionalities gathered from stakeholders during your Needs Assessment, and consider whether these new functionalities will require in-house development. If so, consult with Library IT.
@@ -87,6 +87,7 @@ Knowledge management, or the capturing and documentation of institutional knowle
 - [ ] Identify aspirational skills or competencies to consider for the successful candidate's growth and development. In other words, make allowances for robust professional development opportunities.
 - [ ] Identify areas for potential growth and expansion (e.g. new audience(s), expanded content types, etc.) See the sub-section on Staffing and Resource Planning of the Service Planning section.
 - [ ] If you do not already have one, consider writing an outreach and/or communication plan in order to maintain and build partnerships with key stakeholders. See the Outreach section.
+
 [Return to top](#top)
 
 ## Contract Negotiation and Renewal
@@ -96,16 +97,17 @@ A helpful way to frame this negotiation is, *What roles from the list above will
 
 It is also vital to take into account the policies noted above: can they be fulfilled under the contract as written? For this reason alone, it's a good idea to have those policies in writing before negotiations!
 
-The Service Sponsor, University Counsel, and Copyright Office will likely have their own concerns about the contract, as well. Only when all of these concerns have been answered should the contract be signed.
+The Service Sponsor and University Counsel will likely have their own concerns about the contract, as well. Only when all of these concerns have been answered should the contract be signed.
 
 All of these issues should be revisited when the time to renew the contract comes around, to see how well the service has fulfilled its requirements to date. Renewals afford us the opportunity to evaluate the system as *executed*, and thus make necessary improvements. It's a good idea to expand the people involved in the conversation to include other roles, who may have important insights into what improvements can be made, or whether the contract should be renewed at all.
 
 Note that while this section largely deals with licensed repository software, the principles involved can be applied to homegrown or internally managed open source software as well. It's common in such cases that the roles above will be filled by colleagues from different departments, and internal MOUs can help insure sustainable service, even through reorganizations and staff changes.
 
+
 If working with an external vendor:
 
 - [ ] Work with stakeholders above to ensure that the language of the contract meets all repository needs.
-- [ ] Get sign-off from Service Sponsor, Copyright Office, Budget office, and University Counsel.
+- [ ] Get sign-off from Service Sponsor, Copyright Office, Budget office, and University Counsel as appropriate for your institution.
 - [ ] Distribute copies of signed contract to all relevant stakeholders.
 - [ ] Review contract yearly to see if changes are necessary.
 

@@ -23,7 +23,6 @@ In addition to digital preservation, **digital curation** is another helpful con
 
 Digital preservation and digital curation are focused on content and keeping content available over time, not necessarily on the technical form that houses the content. Digital preservation relies in part on actions that occur before content is in a preservation environment, so understanding how you are collecting content will inform what is necessary and practical to expect from these pre-ingest environments. When thinking about preservation and curation, think about planning for 15+ years down the road, not 3-5. Consider what could happen in that span of time: platform migrations, catastrophic system failures, changes in access of content, retirement of key personnel with institutional memory, inter-institutional efforts, changes in institutional support, evolution in collecting focus. Digital preservation also includes preserving and maintaining documentation that articulates standards used over time and the arrangement of content itself. The documentation may or may not be stored externally to the system housing the content.
 
-If you need help with the review and preservation and curation planning for the content of your repository, please contact cul-digpres@cornell.edu for assistance.
 
 [Return to top](#top)
 
@@ -89,7 +88,6 @@ Establish a set of minimum metadata required for deposited content, and ensure t
 
 Digital preservation always requires creating multiple copies and may may require format normalization over time. Intellectual property law and specialized donor agreements makes the legality of file format migration and creating multiple copies for preservation murky unless permission is explicitly given. Ensure that your rights management strategy ensures that the curator of the content will have the right to appropriately preserve the digital content.
 
-Contact copyright@cornell.edu to obtain guidance.
 
 - [ ] Create a standard agreement for content depositors to transfer rights to the content that allow curator or repository staff to perform preservation activities.
 - [ ] Decide who is on the hook for vetting or defining rights that are transferred.

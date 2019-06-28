@@ -32,13 +32,14 @@ Documentation should be preservation-friendly and sustainable. This means ensuri
 - [ ] There is away to export from a system if it lives in such an environment
 - [ ] Final versions are saved in preservation-friendly file formats
 - [ ] There is a plan to manage revisions and appropriately retire old versions
+
 [Return to top](#top)
 
 ## Policy Writing
 
 Having policies in writing and accessible is a key aspect of any sort of library service, and repositories are no exception. Such explicit policies facilitate making decisions consistently, as well as setting patron expectations. In cases of dispute, having a written policy in advance can help resolve matters in a way which feels fair to the parties involved.
 
-While any policies you set must be consistent with those of Cornell University and the Cornell University Library, there is no one-size-fits all set that can be implemented out of the box. The policies of a repository must reflect the goals of the sponsoring unit and the intended audience, as well as operating within the larger organizational framework. Some policies may be written for an external audience while other policies or procedures are better suited for internal staff of the repository.
+While any policies you set must be consistent with those of your organization and the library, there is no one-size-fits all set that can be implemented out of the box. The policies of a repository must reflect the goals of the sponsoring unit and the intended audience, as well as operating within the larger organizational framework. Some policies may be written for an external audience while other policies or procedures are better suited for internal staff of the repository.
 
 Below, you'll find some common policy areas, and the issues that should be addressed within them. This list is not intended to be exhaustive, but at the very least should prove a good starting point.
 
@@ -55,16 +56,16 @@ These policies govern what material will be included in the repository, how that
 These policies govern the long-term preservation of digital objects contained within and/or delivered by the repository service. More discussion of these issues can be found in the Preservation portion of this handbook.
 
 ### Privacy
-These policies protect the privacy of all users of repository services. By default, all repositories abide by the privacy and confidentiality policies of the Cornell University Library; you may wish to consider policies that provide protections above and beyond those.
+These policies protect the privacy of all users of repository services. Find out if your repositories abide by default the privacy and confidentiality policies of the Library or the Organization; you may wish to consider policies that provide protections above and beyond those.
 
 ### Student works
-These policies govern the inclusion of student works in the repository. While some of these issues are covered in "Collection development and content deposit" above, student works raise special issues, especially around compliance with FERPA. Please see the Cornell University Registrar's FERPA page and Cornell Academic Technologies' FERPA and Technology page for additional information, as well as contacting the Copyright Information Center.
+These policies govern the inclusion of student works in the repository. While some of these issues are covered in "Collection development and content deposit" above, student works raise special issues, especially around compliance with FERPA.
 
 ### Sunsetting content
-This policy governs the decision-making process on whether to retain or remove content. This is one of the sparsest areas of policy, as the assumption at CUL tends to be that once something is added to a repository, it will remain there in perpetuity. But digital collections should be weeded for many of the same reasons that physical collections are, and as such this policy is necessary. If the decision is to retain content, see section on Exit Planning, which deals with migrating content to a new platform.
+This policy governs the decision-making process on whether to retain or remove content. This is one of the sparsest areas of policy, as the assumption at some libraries tends to be that once something is added to a repository, it will remain there in perpetuity. But digital collections should be weeded for many of the same reasons that physical collections are, and as such this policy is necessary. If the decision is to retain content, see section on Exit Planning, which deals with migrating content to a new platform.
 
 ### Takedown requests
-These policies govern the response to requests to remove material from repositories, or to redact content from those materials. Contacting the Copyright Information Center when crafting these policies, and when responding to specific requests, is advisable. More discussion of these issues can be found in the Rights Management portion of this handbook.
+These policies govern the response to requests to remove material from repositories, or to redact content from those materials. Contacting your copyright expert when crafting these policies, and when responding to specific requests, is advisable. More discussion of these issues can be found in the Rights Management portion of this handbook.
 
 Compose, approve and document:
 - [ ] access policy
@@ -75,6 +76,7 @@ Compose, approve and document:
 - [ ] student works policy
 - [ ] content sunsetting policy
 - [ ] takedown request policy
+
 [Return to top](#top)
 
 ## What to document?
