@@ -1,10 +1,10 @@
 # Role identification
 
-The following terminology is used throughout the handbook to describe individuals who fulfill key roles in supporting repository services. The assignment of these roles, and even how many roles an individual may fill, can vary depending on a variety of factors. Furthermore, some of these roles will be filled within a given team or department providing repository service support, while other may be functional experts within CUL.
+The following terminology is used throughout the handbook to describe individuals who fulfill key roles in supporting repository services. The assignment of these roles, and even how many roles an individual may fill, can vary depending on a variety of factors. Furthermore, some of these roles will be filled within a given team or department providing repository service support, while other may be functional experts within library system.
 
 Once the identities of the **Service Sponsor** and **Repository Service Owner** have been determined, they should work together to identify individuals who will fulfill the other roles.
 
-* *Service Sponsor*: Often at the senior manager level, the Service Sponsor is responsible for providing fiscal sponsorship of the repository service, as well as high-level leadership and representation to the Library Executive Group (LEG). The service sponsor may also make final determination on collection model (active or passive), as this has major implications for staffing needs.
+* *Service Sponsor*: Often at the senior manager level, the Service Sponsor is responsible for providing fiscal sponsorship of the repository service, as well as high-level leadership and representation to a library administrative group. The service sponsor may also make final determination on collection model (active or passive), as this has major implications for staffing needs.
 * *Repository Service Owner*: Provides leadership on the essential aspects of operating the application, including contract negotiation and policy writing. Serves as the main point of contact for functional concerns, including identification of appropriate format types and interoperability with other repository services. May partner with others on outreach efforts, including the Content Selector. May route concerns to technical support team, if present.
 * *Repository Service Manager*: Under the guidance of the Repository Service Owner, the Repository Service Manager may be responsible for identifying and responding to technical support of the repository service, with tasks including: installation; maintenance; upgrades and migrations; and monitoring or routing break/fix responses.
 * *Content Creator*: Responsible for the creation of content that is included in the repository. This role is usually independent of or external to the library and/or repository service provider. The issues surrounding this role are covered in more depth in the Curation section.
@@ -16,8 +16,8 @@ Once the identities of the **Service Sponsor** and **Repository Service Owner** 
 
 Depending on the platform, collection model, and type of content intended for the repository, other roles and responsibilities may include:
 
-* *Metadata Capturer*: Responsible for capturing and entering required metadata as defined by the Metadata Strategist, using appropriate templates and standards as provided. This role may be fulfilled by a stakeholder who is external to the Library.
+* *Metadata Capturer*: Responsible for capturing and entering required metadata as defined by the Metadata Strategist, using appropriate templates and standards as provided. This role may be fulfilled by a stakeholder who is external to the library.
 * *Digitization Team*: Responsible for working with the Content Selector to evaluate quality of analog objects for potential digitization and to then actually digitize content.
-* *Technical Support*: With leadership from the Repository Service Manager, the technical support team may assist with installation, maintenance, upgrades and migrations, and monitoring/routing break/fix responses. It is highly recommended that you consult with library IT.
+* *Technical Support*: With leadership from the Repository Service Manager, the technical support team may assist with installation, maintenance, upgrades and migrations, and monitoring/routing break/fix responses. It is highly recommended that you consult with your library IT department.
 
 [Return to Top](#top)
