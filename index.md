@@ -33,8 +33,8 @@ The handbook is divided into the following sections. Each section was written by
 * [Rights Management](Rights-Management.md)
 
 You can also view [the GitHub repository for this work](https://github.com/DSSatPitt/repository-handbook).
---
 
+--
 
 ![Creative Commons Attribution-Non-Commercial license](https://i.creativecommons.org/l/by-nc/4.0/88x31.png "CC BY-NC")
 Licensed under a [Creative Commons Attribution-Non-Commercial license (CC BY-NC) version 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
