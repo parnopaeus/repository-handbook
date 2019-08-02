@@ -29,7 +29,7 @@ The two broad categories of collection for a repository are active collecting an
 If your repository will engage with passive collection:
 
 * Determine what community(ies) will support your passive collection. This may be the same as or differ from your access community(ies).
-* Determine how repository service will engage with identified communities. Complete the outreach section of the handbook.
+* Determine how repository service will engage with identified communities. Complete the [outreach section](Outreach.md) of the handbook.
 * Identify the systems that will allow external actors to add material to the repository.
 * Determine the safeguards necessary to vet content from external actors.
 
