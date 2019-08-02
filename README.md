@@ -1,4 +1,4 @@
-# repository-handbook
+# The Repository Handbook
 A working version of Cornell's Repository Handbook, intended to be cloned and used for repository managers to use locally.
 
 # What is it?
